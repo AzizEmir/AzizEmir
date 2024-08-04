@@ -37,17 +37,17 @@
   <tr>
     <td>
       <a href="https://github.com/AzizEmir/rust-bootcamp-2024">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=rust-bootcamp-2024&theme=date_night" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=rust-bootcamp-2024&theme=gruvbox" >
       </a>
     </td>
        <td>
       <a href="https://github.com/AzizEmir/Rust-Fibonacci-Bigint">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=Rust-Fibonacci-Bigint&theme=date_night" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=Rust-Fibonacci-Bigint&theme=gruvbox" >
       </a>
     </td>
        <td>
       <a href="https://github.com/AzizEmir/Client-Computer-Monitoring">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=Client-Computer-Monitoring&theme=date_night" >
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=Client-Computer-Monitoring&theme=gruvbox" >
       </a>
     </td>
   </tr>
