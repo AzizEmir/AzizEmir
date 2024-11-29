@@ -27,7 +27,13 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=Debian-12-Debloat&theme=moltack" >
       </a>
     </td>
+        <td>
+      <a href="https://github.com/AzizEmir/Debian-12-Debloat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=zshrc&theme=moltack" >
+      </a>
+    </td>
   </tr>
+  
 </table>
 
 
