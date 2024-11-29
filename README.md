@@ -28,7 +28,7 @@
       </a>
     </td>
         <td>
-      <a href="https://github.com/AzizEmir/Debian-12-Debloat">
+      <a href="https://github.com/AzizEmir/zshrc">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=zshrc&theme=moltack" >
       </a>
     </td>
