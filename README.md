@@ -150,3 +150,20 @@
     </td>
   </tr>
 </table>
+
+### Rofi Themes
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <a href="https://github.com/AzizEmir/rofi-gtr-theme">
+        <img src="https://private-user-images.githubusercontent.com/101357256/391315829-eb54d517-5ff4-4adf-9ea5-a8743ba3077e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNzc2NTMsIm5iZiI6MTczMzA3NzM1MywicGF0aCI6Ii8xMDEzNTcyNTYvMzkxMzE1ODI5LWViNTRkNTE3LTVmZjQtNGFkZi05ZWE1LWE4NzQzYmEzMDc3ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMVQxODIyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDIxYmI1NTJhNTQzODljY2M3N2YzMWJiN2FkYWU4YzUwMWZiMDZkZTM4NjAxYzUzZDZjZDAzZjg3ZWQ3MmYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5ptEKv-dfCrf0webD35dkAQYx2UgFWoxfqJPFxy95vk" >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AzizEmir/rofi-galactic-horizon-theme">
+        <img src="https://private-user-images.githubusercontent.com/101357256/391353704-f0eda7db-70a0-4080-adf4-75aeef64f4b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMwNzc2NTMsIm5iZiI6MTczMzA3NzM1MywicGF0aCI6Ii8xMDEzNTcyNTYvMzkxMzUzNzA0LWYwZWRhN2RiLTcwYTAtNDA4MC1hZGY0LTc1YWVlZjY0ZjRiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMVQxODIyMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MTRhNTgxY2ZlYjRiYzRiYTliNTQyZDM1MDYzOTIxOTBkODAxYzQyYjc3ZDEyNDIzNDM1OTQ3MGYzZWE5YzZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._ux8w7Xr1nKqgJEd9Le6CbNrhEQjLLb5f9o_-HG7k2k" >
+      </a>
+    </td>
+  </tr>
+</table>
