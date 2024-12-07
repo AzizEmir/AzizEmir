@@ -1,6 +1,34 @@
 ## Hi there 👋
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizEmir&layout=compact&theme=rose)
 
+### Rofi Themes
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <a href="https://github.com/AzizEmir/rofi-gtr-theme">
+        <img width="1920" src="https://i.ibb.co/Vqs8TbM/a-1.png" >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AzizEmir/rofi-galactic-horizon-theme">
+        <img width="1920" src="https://i.ibb.co/c83fjzD/a.png" >
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/AzizEmir/rofi-black-white-theme">
+        <img width="1920" src="https://i.ibb.co/PGhMjV1/son.png" >
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AzizEmir/rofi-turk-theme">
+        <img width="1920" src="https://i.ibb.co/hLKT4gQ/t-rk.png" >
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Shell
 
@@ -146,35 +174,6 @@
     <td>
       <a href="https://github.com/AzizEmir/C-Restoran-Otomasyon">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzizEmir&repo=C-Restoran-Otomasyon&theme=vue-dark" >
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Rofi Themes
-
-<table style="border: none;">
-  <tr>
-    <td>
-      <a href="https://github.com/AzizEmir/rofi-gtr-theme">
-        <img src="https://cdn.pixabay.com/photo/2024/12/01/20/05/20-05-20-99_960_720.jpg" >
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AzizEmir/rofi-galactic-horizon-theme">
-        <img src="https://cdn.pixabay.com/photo/2024/12/01/20/08/20-08-21-922_960_720.jpg" >
-      </a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="https://github.com/AzizEmir/rofi-black-white-theme">
-        <img src="https://cdn.pixabay.com/photo/2024/12/07/17/41/17-41-22-859_960_720.png" >
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AzizEmir/rofi-turk-theme">
-        <img src="https://cdn.pixabay.com/photo/2024/12/07/18/21/18-21-45-823_960_720.png" >
       </a>
     </td>
   </tr>
