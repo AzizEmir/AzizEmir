@@ -19,7 +19,7 @@
     <tr>
     <td>
       <a href="https://github.com/AzizEmir/rofi-black-white-theme">
-        <img width="1920" src="https://i.ibb.co/PGhMjV1/son.png" >
+        <img width="1920" src="https://i.ibb.co/sCGyBMc/Ekran-G-r-nt-s-2024-12-08-14-54-06.png" >
       </a>
     </td>
     <td>
