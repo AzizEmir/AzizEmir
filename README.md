@@ -1,6 +1,18 @@
 ## Hi there 👋
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizEmir&layout=compact&theme=rose)
 
+<table style="border: none;">
+  <tr>
+    <td>
+        <img width="1920" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizEmir&layout=compact&theme=rose" >
+    <td>
+    <td>
+      <img width="1920" src="https://github.com/user-attachments/assets/957b5a7d-1164-42e8-83e0-4e166bf25eb9" >
+    <td>
+      
+  <tr>
+      
+</table >
+      
 ### Rofi Themes
 
 <table style="border: none;">
