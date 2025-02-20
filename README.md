@@ -44,6 +44,19 @@
   </tr>
 </table>
 
+### Rofi App
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <a href="https://github.com/AzizEmir/lxc-rofi">
+        <img width="1920" src="https://github.com/user-attachments/assets/f300c025-0fc4-4818-a979-c7463a697c74" >
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ### Firefox Themes
 
 <table style="border: none;">
